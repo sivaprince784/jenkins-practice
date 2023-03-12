@@ -1,0 +1,47 @@
+sudo wget -O /etc/yum.repos.d/jenkins.repo https://pkg.jenkins.io/redhat-stable/jenkins.repo
+    2    sudo rpm --import https://pkg.jenkins.io/redhat-stable/jenkins.io.key
+    3  amazon-linux-extras install java-openjdkll -y
+    4  amazon-linux-extras install java-openjdk11 -y
+    5  yum install git maven jenkins -y
+    6  systemctl start jenkins.servicde
+    7  systemctl start jenkins.service
+    8  systemctl status jenkins.service
+    9  amazon-linux-extras install java-openjdk11 -y
+   10  yum install git maven jenkins -y
+   11  systemctl start jenkins.service
+   12  systemctl status jenkins.service
+   13  cat /var/lib/jenkins/secrets/initialAdminPassword
+   14  systemctl status jenkins.service
+   15  cd /var/lib/jenkins/workspace/Jenkins day1
+   16  ll
+   17  amazon-linux-extras install java-openjdk11 -y
+   18  yum install git maven jenkins -y
+   19  ll
+   20  systemctl start jenkins.service
+   21  systemctl status jenkins.service
+   22  -l
+   23  ll
+   24  cd/var/lib/jenkins/workspace/Jenkins day1
+   25  cd /var/lib/jenkins/workspace/Jenkins day1
+   26  cd Jenkins day1
+   27  cd /var/lib/jenkins/workspace/Jenkins day1
+   28  cat /etc/passwd
+   29  cd
+   30  ll
+   31  mkdir tcs
+   32  ll
+   33   cat /etc/passwd
+   34  chown -R jenkins:jnekins/tcs/
+   35  chown -R jenkins:jnekins /tcs/
+   36  ll
+   37  chown -R jenkins:jenkins /tcs/
+   38  mkdir tcs
+   39  ll
+   40  cd/
+   41  cd /
+   42  ll
+   43  cd siva
+   44  ll
+   45  cd abc.txt
+   46  cat abc.txt
+   47  cat def.txt
